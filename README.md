@@ -31,7 +31,7 @@ If you have read the code, you can modify anywhere as you like!
 
 
 ---
-##### Run the python
+##### Run the program
 First, you need to compile the source code. You may need a C++ compiler, such as MinGW. And then, the execution file is generated and you can run it.
 Using the command like :
 
