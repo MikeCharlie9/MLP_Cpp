@@ -1,6 +1,6 @@
 # MLP_Cpp
 
-#### This is a collection of C++ program for Multi-Layer Perceptron network
+#### This is a C++ program for Multi-Layer Perceptron network
 
 
 ---
